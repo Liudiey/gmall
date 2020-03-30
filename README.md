@@ -1,2 +1,2 @@
 # gmall
-谷粒商城springcloud电商平台
+基于springcloud电商平台
